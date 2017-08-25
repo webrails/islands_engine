@@ -1,6 +1,8 @@
 # IslandsEngine
 
-**TODO: Add description**
+**Functional Web Development with Elixir, OTP, and Phoenix**
+
+Rethink the Modern Web App.
 
 ## Installation
 
